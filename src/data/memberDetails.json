@@ -1,0 +1,342 @@
+{
+  "minseok": {
+    "id": "minseok",
+    "name": "정민석",
+    "role": "음악 프로듀서",
+    "title": "BEAT MASTER",
+    "level": 95,
+    "exp": 8750,
+    "maxExp": 10000,
+    "stats": {
+      "creativity": 98,
+      "musicality": 95,
+      "leadership": 85,
+      "energy": 90,
+      "humor": 88
+    },
+    "achievements": [
+      {
+        "title": "첫 번째 트랙 완성",
+        "description": "랑구의 여름을 성공적으로 프로듀싱",
+        "date": "2024-05-15",
+        "type": "music",
+        "rarity": "legendary"
+      },
+      {
+        "title": "스튜디오 마스터",
+        "description": "100시간 이상 스튜디오에서 작업",
+        "date": "2024-07-20",
+        "type": "dedication",
+        "rarity": "epic"
+      },
+      {
+        "title": "멜로디 킬러",
+        "description": "팀 내 최고 작곡 실력 인정",
+        "date": "2024-08-01",
+        "type": "skill",
+        "rarity": "rare"
+      }
+    ],
+    "projects": [
+      {
+        "name": "랑구의 여름",
+        "type": "음악 제작",
+        "status": "completed",
+        "completion": 100,
+        "description": "여름의 뜨거운 감성을 담은 첫 번째 작품"
+      },
+      {
+        "name": "겨울 앨범 제작",
+        "type": "음악 제작",
+        "status": "in-progress",
+        "completion": 65,
+        "description": "겨울의 차가운 분위기를 표현할 새로운 앨범"
+      },
+      {
+        "name": "Live Session",
+        "type": "공연 기획",
+        "status": "planned",
+        "completion": 0,
+        "description": "팀 첫 라이브 세션 기획"
+      }
+    ],
+    "skills": [
+      { "name": "Logic Pro", "level": 95, "category": "Software" },
+      { "name": "피아노", "level": 88, "category": "Instrument" },
+      { "name": "기타", "level": 82, "category": "Instrument" },
+      { "name": "믹싱", "level": 90, "category": "Production" },
+      { "name": "마스터링", "level": 85, "category": "Production" }
+    ],
+    "favorites": {
+      "music": ["Lo-fi Hip Hop", "Jazz", "Electronic"],
+      "food": ["파스타", "스테이크", "와인"],
+      "places": ["스튜디오", "카페", "콘서트홀"],
+      "activities": ["작곡", "믹싱", "라이브 공연"]
+    },
+    "quotes": [
+      "음악은 언어를 넘어선 소통이다",
+      "완벽한 비트는 심장박동과 같아야 한다",
+      "창작의 고통이 곧 예술의 탄생이다"
+    ],
+    "socialLinks": {
+      "instagram": "@minseok_beats",
+      "soundcloud": "minseok-producer",
+      "youtube": "MinseokMusic"
+    }
+  },
+  "jaewon": {
+    "id": "jaewon",
+    "name": "정재원",
+    "role": "팀 중심이자 기획자",
+    "title": "STRATEGIC COMMANDER",
+    "level": 92,
+    "exp": 7400,
+    "maxExp": 10000,
+    "stats": {
+      "leadership": 99,
+      "strategy": 95,
+      "communication": 90,
+      "organization": 96,
+      "charisma": 93
+    },
+    "achievements": [
+      {
+        "title": "팀 빌딩 마스터",
+        "description": "팀 결속력 최고조 달성",
+        "date": "2024-03-10",
+        "type": "leadership",
+        "rarity": "legendary"
+      },
+      {
+        "title": "기획의 신",
+        "description": "모든 프로젝트 성공적 기획",
+        "date": "2024-06-15",
+        "type": "planning",
+        "rarity": "epic"
+      },
+      {
+        "title": "소통왕",
+        "description": "팀 내 갈등 제로 달성",
+        "date": "2024-08-20",
+        "type": "communication",
+        "rarity": "rare"
+      }
+    ],
+    "projects": [
+      {
+        "name": "팀 웹사이트 기획",
+        "type": "웹 개발",
+        "status": "completed",
+        "completion": 100,
+        "description": "랑구팸 공식 웹사이트 전체 기획 및 관리"
+      },
+      {
+        "name": "일본 여행 기획",
+        "type": "여행 계획",
+        "status": "in-progress",
+        "completion": 80,
+        "description": "2025년 일본 정복 작전 마스터플랜"
+      },
+      {
+        "name": "팀 브랜딩",
+        "type": "브랜딩",
+        "status": "ongoing",
+        "completion": 75,
+        "description": "랑구 스쿼드 브랜드 아이덴티티 구축"
+      }
+    ],
+    "skills": [
+      { "name": "기획", "level": 98, "category": "Planning" },
+      { "name": "리더십", "level": 95, "category": "Leadership" },
+      { "name": "프로젝트 관리", "level": 92, "category": "Management" },
+      { "name": "커뮤니케이션", "level": 90, "category": "Social" },
+      { "name": "전략 수립", "level": 94, "category": "Strategy" }
+    ],
+    "favorites": {
+      "books": ["경영학", "심리학", "리더십"],
+      "food": ["한식", "일식", "커피"],
+      "places": ["회의실", "도서관", "카페"],
+      "activities": ["기획", "회의", "토론", "독서"]
+    },
+    "quotes": [
+      "계획 없는 꿈은 단순한 소망일 뿐이다",
+      "팀워크는 개인의 능력을 뛰어넘는다",
+      "완벽한 기획이 성공을 보장한다"
+    ],
+    "socialLinks": {
+      "instagram": "@jaewon_planner",
+      "linkedin": "jaewon-jung",
+      "notion": "jaewon-workspace"
+    }
+  },
+  "hanwool": {
+    "id": "hanwool",
+    "name": "강한울",
+    "role": "크리에이티브 디렉터",
+    "title": "CREATIVE VISIONARY",
+    "level": 89,
+    "exp": 6200,
+    "maxExp": 10000,
+    "stats": {
+      "creativity": 99,
+      "design": 95,
+      "innovation": 92,
+      "aesthetics": 97,
+      "imagination": 94
+    },
+    "achievements": [
+      {
+        "title": "비주얼 마에스트로",
+        "description": "팀 모든 비주얼 콘텐츠 총괄",
+        "date": "2024-04-22",
+        "type": "design",
+        "rarity": "legendary"
+      },
+      {
+        "title": "아이디어 뱅크",
+        "description": "창의적 아이디어 100개 달성",
+        "date": "2024-07-10",
+        "type": "creativity",
+        "rarity": "epic"
+      },
+      {
+        "title": "트렌드세터",
+        "description": "팀 내 스타일 리더로 인정",
+        "date": "2024-08-05",
+        "type": "trend",
+        "rarity": "rare"
+      }
+    ],
+    "projects": [
+      {
+        "name": "팀 로고 디자인",
+        "type": "그래픽 디자인",
+        "status": "completed",
+        "completion": 100,
+        "description": "랑구 스쿼드 공식 로고 및 브랜딩 디자인"
+      },
+      {
+        "name": "뮤직비디오 연출",
+        "type": "영상 제작",
+        "status": "in-progress",
+        "completion": 45,
+        "description": "첫 번째 뮤직비디오 크리에이티브 디렉팅"
+      },
+      {
+        "name": "전시회 기획",
+        "type": "기획",
+        "status": "planned",
+        "completion": 15,
+        "description": "팀 작품 전시회 비주얼 기획"
+      }
+    ],
+    "skills": [
+      { "name": "Photoshop", "level": 95, "category": "Software" },
+      { "name": "Illustrator", "level": 92, "category": "Software" },
+      { "name": "After Effects", "level": 88, "category": "Software" },
+      { "name": "드로잉", "level": 90, "category": "Art" },
+      { "name": "색채학", "level": 93, "category": "Theory" }
+    ],
+    "favorites": {
+      "art": ["현대미술", "그래피티", "디지털아트"],
+      "food": ["이탈리안", "브런치", "디저트"],
+      "places": ["갤러리", "카페", "작업실"],
+      "activities": ["드로잉", "전시 관람", "영상 편집"]
+    },
+    "quotes": [
+      "창작은 영혼의 언어다",
+      "아름다움은 세상을 구원한다",
+      "디자인은 문제 해결의 예술이다"
+    ],
+    "socialLinks": {
+      "instagram": "@hanwool_creative",
+      "behance": "hanwool-design",
+      "dribbble": "hanwool"
+    }
+  },
+  "jingyu": {
+    "id": "jingyu",
+    "name": "진규",
+    "role": "조력자",
+    "title": "SUPPORT SPECIALIST",
+    "level": 87,
+    "exp": 5800,
+    "maxExp": 10000,
+    "stats": {
+      "support": 98,
+      "loyalty": 99,
+      "reliability": 95,
+      "adaptability": 90,
+      "patience": 92
+    },
+    "achievements": [
+      {
+        "title": "백업의 신",
+        "description": "모든 프로젝트 완벽 서포트",
+        "date": "2024-05-30",
+        "type": "support",
+        "rarity": "legendary"
+      },
+      {
+        "title": "문제 해결사",
+        "description": "팀 내 모든 기술적 문제 해결",
+        "date": "2024-07-25",
+        "type": "technical",
+        "rarity": "epic"
+      },
+      {
+        "title": "신뢰의 아이콘",
+        "description": "팀원들의 절대적 신뢰 획득",
+        "date": "2024-08-15",
+        "type": "trust",
+        "rarity": "rare"
+      }
+    ],
+    "projects": [
+      {
+        "name": "백엔드 시스템 구축",
+        "type": "개발",
+        "status": "completed",
+        "completion": 100,
+        "description": "웹사이트 백엔드 시스템 안정화"
+      },
+      {
+        "name": "팀 일정 관리",
+        "type": "관리",
+        "status": "ongoing",
+        "completion": 90,
+        "description": "팀 스케줄 및 업무 분배 시스템"
+      },
+      {
+        "name": "보안 시스템 강화",
+        "type": "보안",
+        "status": "in-progress",
+        "completion": 60,
+        "description": "팀 데이터 보안 및 백업 시스템"
+      }
+    ],
+    "skills": [
+      { "name": "JavaScript", "level": 90, "category": "Programming" },
+      { "name": "Python", "level": 85, "category": "Programming" },
+      { "name": "Node.js", "level": 88, "category": "Backend" },
+      { "name": "데이터베이스", "level": 82, "category": "Database" },
+      { "name": "문제해결", "level": 95, "category": "Analysis" }
+    ],
+    "favorites": {
+      "tech": ["클라우드", "보안", "자동화"],
+      "food": ["한식", "치킨", "맥주"],
+      "places": ["작업실", "PC방", "집"],
+      "activities": ["코딩", "게임", "독서", "영화감상"]
+    },
+    "quotes": [
+      "완벽한 서포트가 승리를 만든다",
+      "안정성이 곧 신뢰다",
+      "보이지 않는 곳에서 빛나는 것이 진정한 가치다"
+    ],
+    "socialLinks": {
+      "github": "jingyu-dev",
+      "linkedin": "jingyu-kim",
+      "blog": "jingyu.tech"
+    }
+  }
+} 

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "minseok",
+    "name": "정민석",
+    "role": "음악 프로듀서",
+    "description": "음악을 사랑하는 크리에이터입니다. 팀의 기술적 백본을 담당하며, 창의적인 음악 작업을 이끌어갑니다.",
+    "profileImage": "/images/members/minseok.jpg",
+    "interests": ["음악 녹음", "게임", "호텔"],
+    "favoriteColor": "#DC2626",
+    "motto": "음악과 게임으로 세상을 바꾸자"
+  },
+  {
+    "id": "jaewon",
+    "name": "정재원",
+    "role": "팀 중심이자 기획자 & 스토리텔러",
+    "description": "열정적인 여행가이자 스토리텔러입니다. 팀의 모험과 여행을 기획하고, 우리의 이야기를 기록합니다.",
+    "profileImage": "/images/members/jaewon.jpg",
+    "interests": ["여행", "프로그래밍", "패션"],
+    "favoriteColor": "#FFFF00",
+    "motto": "여행은 마음을 넓히는 최고의 교육"
+  },
+  {
+    "id": "hanwool",
+    "name": "강한울",
+    "role": "크리에이티브 디렉터",
+    "description": "창의적인 아이디어의 원천입니다. 독특한 관점으로 팀에 새로운 영감을 불어넣습니다.",
+    "profileImage": "/images/members/hanul.jpg",
+    "interests": ["글쓰기", "역사", "교육"],
+    "favoriteColor": "#808080",
+    "motto": "상상력이 현실을 만든다"
+  },
+  {
+    "id": "jingyu",
+    "name": "진규",
+    "role": "중재자",
+    "description": "신중하고 든든한 중재자입니다. 팀의 균형을 맞추고, 모든 일이 순조롭게 진행되도록 돕습니다. 하지만 정재원 정민석과 함께 시너지 효과를 발휘해, 강한울을 놀립니다.",
+    "profileImage": "/images/members/jingyu.jpg",
+    "interests": ["군대", "술", "담배"],
+    "favoriteColor": "#00FFFF",
+    "motto": "사람의 필수 3요소 카페인, 니코틴, 알콜"
+  }
+] 

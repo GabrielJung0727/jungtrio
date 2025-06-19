@@ -1,0 +1,145 @@
+[
+  {
+    "id": "jeju-2024",
+    "title": "제주도 정복 작전",
+    "location": "제주도",
+    "country": "대한민국",
+    "date": "2024-08-15",
+    "endDate": "2024-08-18",
+    "duration": "3박 4일",
+    "status": "completed",
+    "description": "랑구 스쿼드의 첫 번째 대규모 여행 작전. 제주도의 모든 명소를 정복하고 돌아왔다.",
+    "highlights": [
+      "한라산 등반 성공",
+      "성산일출봉 일출 감상",
+      "흑돼지 무한 섭취",
+      "카트 레이싱 대회"
+    ],
+    "images": [
+      "/images/travels/jeju1.jpg",
+      "/images/travels/jeju2.jpg",
+      "/images/travels/jeju3.jpg"
+    ],
+    "participants": ["민석", "재원", "한울", "진규"],
+    "budget": 800000,
+    "rating": 5,
+    "tags": ["자연", "모험", "음식", "액티비티"],
+    "coordinates": {
+      "lat": 33.4996,
+      "lng": 126.5312
+    }
+  },
+  {
+    "id": "busan-2024",
+    "title": "부산 해안 점령",
+    "location": "부산",
+    "country": "대한민국",
+    "date": "2024-06-22",
+    "endDate": "2024-06-24",
+    "duration": "2박 3일",
+    "status": "completed",
+    "description": "부산의 바다와 야경을 완전히 장악한 완벽한 작전이었다.",
+    "highlights": [
+      "해운대 서핑 도전",
+      "광안리 야경 촬영",
+      "자갈치 시장 털기",
+      "감천문화마을 탐험"
+    ],
+    "images": [
+      "/images/travels/busan1.jpg",
+      "/images/travels/busan2.jpg"
+    ],
+    "participants": ["민석", "재원", "한울"],
+    "budget": 450000,
+    "rating": 4,
+    "tags": ["바다", "도시", "음식", "문화"],
+    "coordinates": {
+      "lat": 35.1796,
+      "lng": 129.0756
+    }
+  },
+  {
+    "id": "seoul-2024",
+    "title": "서울 중심가 습격",
+    "location": "서울",
+    "country": "대한민국",
+    "date": "2024-03-10",
+    "endDate": "2024-03-10",
+    "duration": "당일치기",
+    "status": "completed",
+    "description": "서울의 핫플레이스들을 하루 만에 모두 정복한 전격적인 작전.",
+    "highlights": [
+      "홍대 클럽 투어",
+      "한강 치킨 파티",
+      "롯데타워 전망대",
+      "명동 쇼핑 습격"
+    ],
+    "images": [
+      "/images/travels/seoul1.jpg"
+    ],
+    "participants": ["민석", "재원", "한울", "진규"],
+    "budget": 200000,
+    "rating": 4,
+    "tags": ["도시", "나이트라이프", "쇼핑", "음식"],
+    "coordinates": {
+      "lat": 37.5665,
+      "lng": 126.9780
+    }
+  },
+  {
+    "id": "japan-2025",
+    "title": "일본 열도 침공 계획",
+    "location": "도쿄, 오사카",
+    "country": "일본",
+    "date": "2025-04-01",
+    "endDate": "2025-04-07",
+    "duration": "6박 7일",
+    "status": "planned",
+    "description": "2025년 봄, 일본 열도를 완전히 정복할 대규모 작전을 계획 중이다.",
+    "highlights": [
+      "도쿄 디즈니랜드 점령",
+      "오사카 타코야키 무한도전",
+      "후지산 등반 시도",
+      "아키하바라 쇼핑 대전"
+    ],
+    "images": [
+      "/images/travels/japan-plan.jpg"
+    ],
+    "participants": ["민석", "재원", "한울", "진규"],
+    "budget": 2000000,
+    "rating": 0,
+    "tags": ["해외", "문화", "음식", "쇼핑", "계획"],
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    }
+  },
+  {
+    "id": "europe-2025",
+    "title": "유럽 대륙 정복 원정",
+    "location": "파리, 런던, 로마",
+    "country": "유럽",
+    "date": "2025-09-01",
+    "endDate": "2025-09-14",
+    "duration": "13박 14일",
+    "status": "planned",
+    "description": "유럽 3개국을 순회하며 서구 문명을 완전히 이해하고 돌아올 예정이다.",
+    "highlights": [
+      "에펠탑 정상 점령",
+      "대영박물관 보물 감상",
+      "콜로세움 검투사 체험",
+      "유럽 맥주 정복 투어"
+    ],
+    "images": [
+      "/images/travels/europe-plan.jpg"
+    ],
+    "participants": ["민석", "재원", "한울", "진규"],
+    "budget": 5000000,
+    "rating": 0,
+    "tags": ["해외", "역사", "문화", "장거리", "계획"],
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    }
+  }
+] 
